@@ -116,7 +116,7 @@
 
 .product-cards {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   flex-flow: row wrap;
   gap: 2rem;
 }
